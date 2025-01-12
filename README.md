@@ -13,6 +13,10 @@ Power BI Healthcare Analytic Dashboard | Hospital - Clinics Report
 
 6. Patient Visits by Age Group and Race: Explore the distribution of patient visits across different age groups and races. Gain insights into the diversity of healthcare needs and preferences.
 
+
+![screenshot emergengency room report powerbi](https://github.com/user-attachments/assets/a49b3bb3-c44a-4e13-a9b0-253325dbfed7)
+
+
    ## Insights From the Dashboard:
 
     Total Patient Visits (9,216):
